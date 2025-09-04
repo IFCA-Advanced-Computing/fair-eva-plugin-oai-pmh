@@ -32,7 +32,7 @@ include = ["fair_eva.plugin.oai-pmh"]
 namespaces = true
 
 [tool.setuptools.package-data]
-"fair_eva.plugin.oai-pmh" = ["*.ini"]
+"fair_eva.plugin.oai_pmh" = ["*.ini"]
 
 [tool.black]
 unstable = true
